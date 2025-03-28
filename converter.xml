@@ -2,18 +2,18 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\baske\Documents\dev\CalculadoraGrafica\dist\CalculadoraGrafica.jar</jar>
-  <outfile>C:\Users\baske\Documents\dev\CalculadoraGrafica\Calculadora.exe</outfile>
+  <jar>C:\Users\baske\Documents\dev\Cacharreo\CalculadoraGrafica\dist\CalculadoraGrafica.jar</jar>
+  <outfile>C:\Users\baske\Documents\dev\Cacharreo\CalculadoraGrafica\calculadora.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
-  <chdir>tools\img\prueba1.2.ico</chdir>
+  <chdir>.</chdir>
   <priority>normal</priority>
   <downloadUrl></downloadUrl>
   <supportUrl></supportUrl>
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon>C:\Users\baske\Documents\dev\CalculadoraGrafica\tools\img\prueba1.2.ico</icon>
+  <icon>C:\Users\baske\Documents\dev\Cacharreo\CalculadoraGrafica\tools\img\prueba1.2.ico</icon>
   <jre>
     <path>%JAVA_HOME%;%PATH%</path>
     <requiresJdk>false</requiresJdk>
