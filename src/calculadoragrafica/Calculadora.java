@@ -6,7 +6,6 @@ package calculadoragrafica;
 
 import Tipografia.Fuente;
 import java.awt.Image;
-import java.io.File;
 import javax.imageio.ImageIO;
 
 /**
